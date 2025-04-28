@@ -228,7 +228,7 @@ To execute the data curation process the following notebooks are executed in ord
 2.	2_buildings_filter_special_entries.ipynb
 3.	3_buildings_filter_special_entries_nodes.ipynb
 4.	4_fetch_buildings_from_overture.ipynb
-5.	5_overlapping_revoval.ipynb
+5.	5_overlapping_removal.ipynb
 6.	6_SMOD_caclulation.ipynb 
 7.	7_building_height_calculation_parquet_ver.ipynb
 8.	8_Sentinel2_cropping.ipynb
